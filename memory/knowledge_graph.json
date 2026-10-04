@@ -1,0 +1,140 @@
+{
+  "version": "1.0",
+  "last_saved": "2026-07-01T23:55:23.998780",
+  "nodes": [
+    {
+      "id": "person_arun_raj",
+      "name": "Arun Raj",
+      "aliases": [
+        "Arun",
+        "AR",
+        "Arun Raj S"
+      ],
+      "description": "BSc Physics, SRM University. Founder of Shadow AI. From Kerala, India.",
+      "disambiguation": "Self â€” the user and creator of Shadow",
+      "node_type": "self",
+      "first_mentioned": "2026-06-17T23:35:42.777427",
+      "last_updated": "2026-06-17T23:35:42.777427",
+      "linked_memory_ids": [],
+      "metadata": {
+        "is_root": true
+      }
+    },
+    {
+      "id": "person_victor_ai",
+      "name": "Victor",
+      "aliases": [],
+      "description": "An AI project developed by Arun Raj focusing on memory systems.",
+      "disambiguation": "AI entity, not a human",
+      "node_type": "person",
+      "first_mentioned": "2026-07-01T23:55:23.970266",
+      "last_updated": "2026-07-01T23:55:23.973854",
+      "linked_memory_ids": [
+        "88f2fd9d7587"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "person_friday_ai",
+      "name": "Friday",
+      "aliases": [],
+      "description": "An AI project developed by Arun Raj focusing on memory systems.",
+      "disambiguation": "AI entity, not a human",
+      "node_type": "person",
+      "first_mentioned": "2026-07-01T23:55:23.982039",
+      "last_updated": "2026-07-01T23:55:23.984640",
+      "linked_memory_ids": [
+        "88f2fd9d7587"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "person_jarvis_ai",
+      "name": "Jarvis",
+      "aliases": [],
+      "description": "An AI project developed by Arun Raj focusing on memory systems.",
+      "disambiguation": "AI entity, not a human",
+      "node_type": "person",
+      "first_mentioned": "2026-07-01T23:55:23.990930",
+      "last_updated": "2026-07-01T23:55:23.994041",
+      "linked_memory_ids": [
+        "88f2fd9d7587"
+      ],
+      "metadata": {}
+    }
+  ],
+  "edges": [
+    {
+      "source_id": "person_arun_raj",
+      "target_id": "person_victor_ai",
+      "relation_type": "ai project",
+      "reverse_type": "related_to",
+      "confidence": 1.0,
+      "source_memory_ids": [
+        "88f2fd9d7587"
+      ],
+      "first_established": "2026-07-01T23:55:23.977603",
+      "metadata": {}
+    },
+    {
+      "source_id": "person_arun_raj",
+      "target_id": "person_friday_ai",
+      "relation_type": "ai project",
+      "reverse_type": "related_to",
+      "confidence": 1.0,
+      "source_memory_ids": [
+        "88f2fd9d7587"
+      ],
+      "first_established": "2026-07-01T23:55:23.988416",
+      "metadata": {}
+    },
+    {
+      "source_id": "person_arun_raj",
+      "target_id": "person_jarvis_ai",
+      "relation_type": "ai project",
+      "reverse_type": "related_to",
+      "confidence": 1.0,
+      "source_memory_ids": [
+        "88f2fd9d7587"
+      ],
+      "first_established": "2026-07-01T23:55:23.997743",
+      "metadata": {}
+    },
+    {
+      "source_id": "person_victor_ai",
+      "target_id": "person_arun_raj",
+      "relation_type": "related_to",
+      "reverse_type": "ai project",
+      "confidence": 1.0,
+      "source_memory_ids": [
+        "88f2fd9d7587"
+      ],
+      "first_established": "2026-07-01T23:55:23.977603",
+      "metadata": {}
+    },
+    {
+      "source_id": "person_friday_ai",
+      "target_id": "person_arun_raj",
+      "relation_type": "related_to",
+      "reverse_type": "ai project",
+      "confidence": 1.0,
+      "source_memory_ids": [
+        "88f2fd9d7587"
+      ],
+      "first_established": "2026-07-01T23:55:23.988416",
+      "metadata": {}
+    },
+    {
+      "source_id": "person_jarvis_ai",
+      "target_id": "person_arun_raj",
+      "relation_type": "related_to",
+      "reverse_type": "ai project",
+      "confidence": 1.0,
+      "source_memory_ids": [
+        "88f2fd9d7587"
+      ],
+      "first_established": "2026-07-01T23:55:23.997743",
+      "metadata": {}
+    }
+  ]
+}

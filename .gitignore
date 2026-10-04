@@ -1,0 +1,29 @@
+# Sensitive credentials
+.env
+*.env
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Large model binaries & archives
+*.tflite
+*.pt
+*.onnx
+*.weights
+*.zip
+*.exe
+*.bin
+*.sqlite3
+memory/vector_memory*/
+
+# Local captures and test images
+*.jpg
+*.jpeg
+*.png
+YOLO Images/
+!Cameranew/

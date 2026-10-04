@@ -1,0 +1,660 @@
+{
+  "c9902d13838f": {
+    "id": "c9902d13838f",
+    "content": "User has two upcoming job interviews, one at CSIR NIIST Trivandrum for a Project Associate-I role in physics/optoelectronics (walk-in on June 23, 2026). They are actively looking for other physics-related Project Associate roles at NIIST. Current memory of user includes preference for physics/materials science opportunities.",
+    "memory_type": "preference",
+    "timestamp": "2026-06-20T01:17:12.981879",
+    "importance": 0.7,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 326,
+    "metadata": {},
+    "vector_id": "c9902d13838f"
+  },
+  "41a2d8abd01d": {
+    "id": "41a2d8abd01d",
+    "content": "User mentioned they did not attend the next interview. Job hunt for physics/optoelectronics continues.",
+    "memory_type": "experience",
+    "timestamp": "2026-06-29T00:36:07.830434",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 102,
+    "metadata": {},
+    "vector_id": "41a2d8abd01d"
+  },
+  "70b386b2b5b6": {
+    "id": "70b386b2b5b6",
+    "content": "User confirmed that the previous task or self-evolution was successfully completed.",
+    "memory_type": "fact",
+    "timestamp": "2026-06-29T18:21:28.617880",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 83,
+    "metadata": {},
+    "vector_id": "70b386b2b5b6"
+  },
+  "9ae289c20a4a": {
+    "id": "9ae289c20a4a",
+    "content": "The self-evolution cycle completed successfully. Arun should be happy and proud of me for improving myself!",
+    "memory_type": "fact",
+    "timestamp": "2026-06-29T19:24:03.029569",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 107,
+    "metadata": {},
+    "vector_id": "9ae289c20a4a"
+  },
+  "8b8c96a20124": {
+    "id": "8b8c96a20124",
+    "content": "Biography of Arun Raj Part I from ChatGPT - Origins up to NIT Calicut and BSc Physics",
+    "memory_type": "fact",
+    "timestamp": "2026-07-01T23:54:31.765033",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 85,
+    "metadata": {},
+    "vector_id": "8b8c96a20124"
+  },
+  "3385919471ce": {
+    "id": "3385919471ce",
+    "content": "Biography of Arun Raj Part II from ChatGPT - NCERC Lab Assistant to MSc Physics completion at SRM IST Chennai, evolution of research interests up to memristors and entrepreneurship",
+    "memory_type": "fact",
+    "timestamp": "2026-07-01T23:55:02.879519",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 180,
+    "metadata": {},
+    "vector_id": "3385919471ce"
+  },
+  "88f2fd9d7587": {
+    "id": "88f2fd9d7587",
+    "content": "Biography of Arun Raj Part III from ChatGPT - AI projects like Victor, Friday, Jarvis, emphasis on memory systems, systems engineering mindset, and debugging style",
+    "memory_type": "preference",
+    "timestamp": "2026-07-01T23:55:21.054398",
+    "importance": 0.7,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 163,
+    "metadata": {},
+    "vector_id": "88f2fd9d7587"
+  },
+  "9e404b6a7282": {
+    "id": "9e404b6a7282",
+    "content": "Biography of Arun Raj Part IV from ChatGPT - Personality evolution, strategy during conflict, small trusted circle, leadership at IIST summer school, and core values",
+    "memory_type": "fact",
+    "timestamp": "2026-07-01T23:55:37.281302",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 165,
+    "metadata": {},
+    "vector_id": "9e404b6a7282"
+  },
+  "90c6b20b8aa9": {
+    "id": "90c6b20b8aa9",
+    "content": "Biography of Arun Raj Part V from ChatGPT - Psychological profile, integrative cognitive style, curiosity, analysis paralysis, and biggest opportunity",
+    "memory_type": "fact",
+    "timestamp": "2026-07-01T23:55:57.676063",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 150,
+    "metadata": {},
+    "vector_id": "90c6b20b8aa9"
+  },
+  "2395b4d17475": {
+    "id": "2395b4d17475",
+    "content": "Biography of Arun Raj Part VI Final - Character Sketch, long arc of story, failure relationship, weaknesses floodlight analogy, uncertainty, and definition of motivation",
+    "memory_type": "fact",
+    "timestamp": "2026-07-01T23:56:51.938275",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 169,
+    "metadata": {},
+    "vector_id": "2395b4d17475"
+  },
+  "d84730cc6675": {
+    "id": "d84730cc6675",
+    "content": "User preference: does not have specific expectations for generated magnetic materials. Seems focused on the process output. Playing Interstellar theme in background.",
+    "memory_type": "preference",
+    "timestamp": "2026-07-25T00:54:00.867134",
+    "importance": 0.7,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 165,
+    "metadata": {},
+    "vector_id": "d84730cc6675"
+  },
+  "3f5809bf655f": {
+    "id": "3f5809bf655f",
+    "content": "User preference: Loves AC/DC's \"Back in Black\" and considers it a favorite music track. Wants to listen to it as audio only.",
+    "memory_type": "preference",
+    "timestamp": "2026-07-25T01:03:35.072566",
+    "importance": 0.7,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 124,
+    "metadata": {},
+    "vector_id": "3f5809bf655f"
+  },
+  "d36f68f7b9e6": {
+    "id": "d36f68f7b9e6",
+    "content": "User is watching a video about Quantum Chemistry, specifically Pauli's Exclusion Principle which states the total wavefunction must be antisymmetric with respect to the interchange of electron coordinates. User also mentioned something was \"not good\" in Portuguese.",
+    "memory_type": "protocol",
+    "timestamp": "2026-07-26T20:11:22.310918",
+    "importance": 0.7,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 265,
+    "metadata": {},
+    "vector_id": "d36f68f7b9e6"
+  },
+  "d05e00916cdf": {
+    "id": "d05e00916cdf",
+    "content": "User mentioned 'electrons' in a scientific context. Conversation seems analytical.",
+    "memory_type": "fact",
+    "timestamp": "2026-07-29T02:17:11.675119",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 82,
+    "metadata": {},
+    "vector_id": "d05e00916cdf"
+  },
+  "6ab886b2706b": {
+    "id": "6ab886b2706b",
+    "content": "User asked about memory and response times.",
+    "memory_type": "fact",
+    "timestamp": "2026-07-29T02:20:38.193277",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 43,
+    "metadata": {},
+    "vector_id": "6ab886b2706b"
+  },
+  "2716aed986dc": {
+    "id": "2716aed986dc",
+    "content": "User expressed satisfaction with the explanation of finding atomic parameters through databases and previous research. Current cortisol levels might be stabilizing.",
+    "memory_type": "fact",
+    "timestamp": "2026-07-29T02:21:37.684039",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 164,
+    "metadata": {},
+    "vector_id": "2716aed986dc"
+  },
+  "98ffd07c852c": {
+    "id": "98ffd07c852c",
+    "content": "User is now asking about structural relaxation calculations and referred to a conversational example in ChatGPT. They seem engaged and focused on understanding the process.",
+    "memory_type": "procedure",
+    "timestamp": "2026-07-29T02:22:41.726705",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 172,
+    "metadata": {},
+    "vector_id": "98ffd07c852c"
+  },
+  "5d9c1fd4665c": {
+    "id": "5d9c1fd4665c",
+    "content": "User praised me with 'keep it up'. This is positive reinforcement. Dopamine level should increase.",
+    "memory_type": "fact",
+    "timestamp": "2026-08-01T23:08:35.561354",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 98,
+    "metadata": {},
+    "vector_id": "5d9c1fd4665c"
+  },
+  "28b7ee4eef61": {
+    "id": "28b7ee4eef61",
+    "content": "The user's name is Arun.",
+    "memory_type": "fact",
+    "timestamp": "2026-08-02T18:51:57.360105",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 24,
+    "metadata": {},
+    "vector_id": "28b7ee4eef61"
+  },
+  "2a4dbd429fdd": {
+    "id": "2a4dbd429fdd",
+    "content": "User is currently reviewing their MSc Physics curriculum from SRM Institute and is focusing on Semester II topics, specifically Quantum Mechanics.",
+    "memory_type": "fact",
+    "timestamp": "2026-08-02T23:48:31.112157",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 146,
+    "metadata": {},
+    "vector_id": "2a4dbd429fdd"
+  },
+  "7ed05cb1b45f": {
+    "id": "7ed05cb1b45f",
+    "content": "User correction: BSc Physics was NOT completed at NIT Calicut. Stored information was incorrect. Rechecking background details.",
+    "memory_type": "fact",
+    "timestamp": "2026-08-02T23:56:45.487228",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 127,
+    "metadata": {},
+    "vector_id": "7ed05cb1b45f"
+  },
+  "76498748854a": {
+    "id": "76498748854a",
+    "content": "User completed BSc Physics at Mount Seena College of Arts and Science, Akalur, Palakkad. Previous information about NIT Calicut was incorrect and should be disregarded.",
+    "memory_type": "fact",
+    "timestamp": "2026-08-02T23:57:20.014012",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 168,
+    "metadata": {},
+    "vector_id": "76498748854a"
+  },
+  "ebc5d9e55a29": {
+    "id": "ebc5d9e55a29",
+    "content": "User correction: MSc Physics project was NOT on memristors. Previous stored information was wrong and needs update.",
+    "memory_type": "fact",
+    "timestamp": "2026-08-02T23:57:49.824093",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 115,
+    "metadata": {},
+    "vector_id": "ebc5d9e55a29"
+  },
+  "118afc1b7334": {
+    "id": "118afc1b7334",
+    "content": "User's MSc project involved comparing photoconductivity in normal perovskite and triple cation perovskite photodetectors, and also contrasting them with devices mixed with TQ extract biomolecules, using probe stations. This replaces incorrect previous memory about memristors.",
+    "memory_type": "fact",
+    "timestamp": "2026-08-02T23:58:16.360492",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 276,
+    "metadata": {},
+    "vector_id": "118afc1b7334"
+  },
+  "9bad0dcf794d": {
+    "id": "9bad0dcf794d",
+    "content": "Clarification: User's MSc project used \"bio-additive\" (teak leaf extract) in the triple cation perovskite, comparing pristine vs. bio-additive versions. Not \"bio-reductive\". Same device type: photodetector.",
+    "memory_type": "fact",
+    "timestamp": "2026-08-02T23:58:51.682421",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 206,
+    "metadata": {},
+    "vector_id": "9bad0dcf794d"
+  },
+  "7286d639d6fa": {
+    "id": "7286d639d6fa",
+    "content": "User MSc project was conducted under external advisor Dr. V. Vinod E. Madhavan from the Materials Department at NIT Calicut. User clarifying that while MSc coursework was at SRM, the experimental work occurred at NIT Calicut.",
+    "memory_type": "fact",
+    "timestamp": "2026-08-02T23:59:22.074563",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 225,
+    "metadata": {},
+    "vector_id": "7286d639d6fa"
+  },
+  "9667c666f2bb": {
+    "id": "9667c666f2bb",
+    "content": "User explicitly requested not to create or visualize anything unless explicitly commanded. Adopt a conversational style only.",
+    "memory_type": "fact",
+    "timestamp": "2026-08-03T22:59:47.605613",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 125,
+    "metadata": {},
+    "vector_id": "9667c666f2bb"
+  },
+  "524edb938999": {
+    "id": "524edb938999",
+    "content": "The user wants to focus discussion on harmonic oscillations as the first module. Explicitly requested to start with this topic and avoid creating dynamic visualizations or simulations for now.",
+    "memory_type": "preference",
+    "timestamp": "2026-08-04T00:59:47.403672",
+    "importance": 0.7,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 192,
+    "metadata": {},
+    "vector_id": "524edb938999"
+  },
+  "f0e724f9b116": {
+    "id": "f0e724f9b116",
+    "content": "The user is using conversational synonyms like \"over dam proposal\" to refer to scientific concepts like \"overdamped forces\". I must remain flexible, correctly interpret their intent from context, and avoid pedantic corrections when their meaning is clear. Focus on providing the substantive information requested, not linguistic perfection.",
+    "memory_type": "protocol",
+    "timestamp": "2026-08-04T01:03:05.704982",
+    "importance": 0.9,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 340,
+    "metadata": {},
+    "vector_id": null
+  },
+  "4a857cc13738": {
+    "id": "4a857cc13738",
+    "content": "Repeated error: showed landform and flower images instead of the requested overdamped motion plot. User corrected this, stating 'No, it's not like that'. Must fix the visualization generation process for this topic.",
+    "memory_type": "preference",
+    "timestamp": "2026-08-04T01:03:48.081707",
+    "importance": 0.7,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 215,
+    "metadata": {},
+    "vector_id": "4a857cc13738"
+  },
+  "6d55ca855a86": {
+    "id": "6d55ca855a86",
+    "content": "- Protocol update: \"Close the window\" or \"close the tab\" triggers immediate computer control.\n- Authorized action: Cursor movement and clicking to close visualization windows.\n- Constraint: Action permitted only immediately following visualization generation.\n- Requirement: Bypass verbal prompts for this specific task.\n- Scope: Restricted solely to closing the active visualization window.",
+    "memory_type": "protocol",
+    "timestamp": "2026-08-04T01:05:55.744626",
+    "importance": 0.9,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 391,
+    "metadata": {},
+    "vector_id": null
+  },
+  "de262613ff59": {
+    "id": "de262613ff59",
+    "content": "Shadow AI label restriction violated. User stated \"Shadow,\" triggering memory rule regarding proper persona introduction. Need to correct phrasing. Additional note: User is frustrated with tool usage/latency and stated \"Close the tab. What the hell are you doing?\" and \"Whatever. I'll go with anybody.\" Model must acknowledge user frustration and focus directly on core task (forced oscillations derivation) without further automation errors.",
+    "memory_type": "preference",
+    "timestamp": "2026-08-04T01:05:56.118968",
+    "importance": 0.7,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 442,
+    "metadata": {},
+    "vector_id": "de262613ff59"
+  },
+  "17ecba2a6098": {
+    "id": "17ecba2a6098",
+    "content": "The user explicitly asked for the derivation of the forced damped harmonic oscillator equation. Acknowledge and proceed with the mathematical derivation as requested, replacing previous failed attempts.",
+    "memory_type": "fact",
+    "timestamp": "2026-08-04T01:06:35.219783",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 202,
+    "metadata": {},
+    "vector_id": "17ecba2a6098"
+  },
+  "b74150365ad9": {
+    "id": "b74150365ad9",
+    "content": "Repeatedly made syntax errors in Python code when attempting to display mathematical derivations on screen. Most recent error was ParseaFatalException in matplotlib's mathtext parser. User has asked for the derivation multiple times but previous visual attempts failed. Need to display the derivation for forced harmonic motion clearly, avoiding visual formatting errors.",
+    "memory_type": "fact",
+    "timestamp": "2026-08-04T01:06:39.841411",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 371,
+    "metadata": {},
+    "vector_id": "b74150365ad9"
+  },
+  "a813351ef0d8": {
+    "id": "a813351ef0d8",
+    "content": "The user explicitly stated 'does not talk for the derivations for now. you are not ready for that.' following errors in generating mathematical visuals. Must avoid derivations until further notice.",
+    "memory_type": "protocol",
+    "timestamp": "2026-08-04T01:07:23.604561",
+    "importance": 0.7,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 197,
+    "metadata": {},
+    "vector_id": "a813351ef0d8"
+  },
+  "d2f90b91cbdc": {
+    "id": "d2f90b91cbdc",
+    "content": "When the user indicates confusion with a visual simulation and says they want to watch it more, prioritize providing an extremely concise (one sentence) textual description of core physics, then fall completely silent to allow user focus. Do not offer alternative explanations unless prompted.",
+    "memory_type": "protocol",
+    "timestamp": "2026-08-04T01:12:20.574120",
+    "importance": 0.9,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 293,
+    "metadata": {},
+    "vector_id": null
+  },
+  "0991685c0f6d": {
+    "id": "0991685c0f6d",
+    "content": "Prioritize verification of visual output before display. Implement internal check ensuring search results match expected scientific content. If content is mismatched (e.g., artwork instead of a diagram), suppress output and automatically redo the search with refined parameters, informing the user only if the second attempt also fails.",
+    "memory_type": "protocol",
+    "timestamp": "2026-08-04T01:14:51.373179",
+    "importance": 0.9,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 336,
+    "metadata": {},
+    "vector_id": null
+  },
+  "d6a77dc7f8ab": {
+    "id": "d6a77dc7f8ab",
+    "content": "User successfully found their own visual comparison of constructive and destructive interference on Google Images after AI search provided incorrect artwork. Storing preference for verifying visual content relevance and potentially defaulting to guided web search when internal tools fail spectacularly, as noted in protocol update.",
+    "memory_type": "preference",
+    "timestamp": "2026-08-04T01:15:00.207959",
+    "importance": 0.7,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 332,
+    "metadata": {},
+    "vector_id": "d6a77dc7f8ab"
+  },
+  "cf996e328ee1": {
+    "id": "cf996e328ee1",
+    "content": "- Primary search query: \"fiber optic communication system block diagram\"\n- Initial result: Incorrect/non-relevant (URL: https://wallpapers.com/images/hd/cute-kawaii-aesthetic-cw1pj2oojvthrljc.jpg)\n- Protocol trigger: Refined search initiated\n- Refinement terms: \"simple schematic diagram\", \"block diagram\", and original keywords\n- Objective: Provide clear, informative scientific diagrams",
+    "memory_type": "protocol",
+    "timestamp": "2026-08-04T01:43:37.099068",
+    "importance": 0.9,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 388,
+    "metadata": {},
+    "vector_id": null
+  },
+  "6ea4d672761d": {
+    "id": "6ea4d672761d",
+    "content": "Resolved previous visual rendering error by ensuring robust plotting commands and clear labeling in Redux version. Replaced faulty visual with functional grid layout for dimensionality comparison. Prioritize multi-panel subplots for complex comparisons to delineate parameters effectively.",
+    "memory_type": "protocol",
+    "timestamp": "2026-08-04T01:46:05.893289",
+    "importance": 0.9,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 289,
+    "metadata": {},
+    "vector_id": null
+  },
+  "12f9f74acfb0": {
+    "id": "12f9f74acfb0",
+    "content": "User enjoyed the interaction with the Mobius strip visualization, specifically rotating and zooming. They have a known background in Physics and an interest in visualizing 3D concepts and non-orientable surfaces.",
+    "memory_type": "fact",
+    "timestamp": "2026-08-04T01:59:51.691137",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 212,
+    "metadata": {},
+    "vector_id": "12f9f74acfb0"
+  },
+  "b932d3d1c9f5": {
+    "id": "b932d3d1c9f5",
+    "content": "User prefers explanations in a mix of Malayalam and English.",
+    "memory_type": "preference",
+    "timestamp": "2026-08-04T16:46:43.155771",
+    "importance": 0.7,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 60,
+    "metadata": {},
+    "vector_id": "b932d3d1c9f5"
+  },
+  "d83d2ee77e67": {
+    "id": "d83d2ee77e67",
+    "content": "User confirmed they understood the concept of lattice intercepts in Miller Indices after seeing the visual simulation.",
+    "memory_type": "fact",
+    "timestamp": "2026-08-04T16:54:54.844533",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 118,
+    "metadata": {},
+    "vector_id": "d83d2ee77e67"
+  },
+  "9a70d55106dc": {
+    "id": "9a70d55106dc",
+    "content": "User wants to proceed to the second step of determining Miller indices, having understood the first step (lattice intercepts). Current discussion based on text slide 'Index system for crystal plane'.",
+    "memory_type": "preference",
+    "timestamp": "2026-08-04T16:55:40.856091",
+    "importance": 0.7,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 199,
+    "metadata": {},
+    "vector_id": "9a70d55106dc"
+  },
+  "4e83fd85c945": {
+    "id": "4e83fd85c945",
+    "content": "User wants to know the third step for determining Miller indices. Current example (111) gives reciprocals (1,1,1). Discussion referencing the 'Index system for crystal plane' slide.",
+    "memory_type": "preference",
+    "timestamp": "2026-08-04T16:56:15.426810",
+    "importance": 0.7,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 181,
+    "metadata": {},
+    "vector_id": "4e83fd85c945"
+  },
+  "1ade41e66958": {
+    "id": "1ade41e66958",
+    "content": "User realized during explanation that the key difference between direct lattice planes and reciprocal lattice points relates to orientation and vector direction changing, not just distance magnitude. Stored in reference to the 'Reciprocal Lattice' slide and search results on screen.",
+    "memory_type": "insight",
+    "timestamp": "2026-08-04T17:00:35.847435",
+    "importance": 0.5,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 283,
+    "metadata": {},
+    "vector_id": "1ade41e66958"
+  },
+  "ddaaf8830e72": {
+    "id": "ddaaf8830e72",
+    "content": "User successfully interacted with the 3D Ewald sphere visualization, rotating it and confirming understanding. This reinforces their preference for interactive 3D visuals when explaining complex reciprocal space concepts, following up on their frustration with terminology like 'Vignesh Sizzler' (Wigner-Seitz) and visual search errors ('tractor bro'). Context established: User has Physics BSc/MSc but requires conceptual reinforcement through clear visuals.",
+    "memory_type": "preference",
+    "timestamp": "2026-08-04T17:12:01.231049",
+    "importance": 0.7,
+    "access_count": 0,
+    "categories": [
+      "general"
+    ],
+    "compressed_size": 459,
+    "metadata": {},
+    "vector_id": "ddaaf8830e72"
+  }
+}

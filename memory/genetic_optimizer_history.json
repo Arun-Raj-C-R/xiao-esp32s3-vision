@@ -1,0 +1,41 @@
+{
+  "run_1783005775_8def5f": {
+    "run_id": "run_1783005775_8def5f",
+    "objective": "test fast sum",
+    "generations_total": 4,
+    "best_candidate_code": "def solution(x):\n    return sum(x)",
+    "best_metrics": {
+      "correctness": 0.0,
+      "execution_time_ms": 0.085,
+      "complexity": 10.0,
+      "valid": true
+    },
+    "generation_history": [
+      {
+        "generation": 1,
+        "best_correctness": 0.0,
+        "best_execution_time_ms": 0.1306,
+        "best_complexity": 10.0
+      },
+      {
+        "generation": 2,
+        "best_correctness": 0.0,
+        "best_execution_time_ms": 0.0901,
+        "best_complexity": 10.0
+      },
+      {
+        "generation": 3,
+        "best_correctness": 0.0,
+        "best_execution_time_ms": 0.0858,
+        "best_complexity": 10.0
+      },
+      {
+        "generation": 4,
+        "best_correctness": 0.0,
+        "best_execution_time_ms": 0.085,
+        "best_complexity": 10.0
+      }
+    ],
+    "timestamp": "2026-07-02T20:52:55Z"
+  }
+}
